@@ -1,0 +1,231 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+ 
+
+* {margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    color: #747474;
+    
+}
+
+
+main{
+    width: 80%;
+    margin: 0% auto;
+}
+#re {
+
+    width: 300px;
+    height: 35px;
+    
+}
+
+#dd {
+    display: flex;
+    
+    width: 80%;
+    margin: 0% auto;
+justify-content: space-between;
+    background-color: white;
+    padding: 15px;
+}
+header nav ul li a:hover{
+    color:#47c8b7 ;
+}
+
+
+
+
+   
+
+.act{
+    color: #47c8b7;
+}
+#pac {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: #47c8b7;
+    
+    
+   }
+   header nav ul li{
+    margin-left: 20px;
+   }
+
+#tt {
+
+    color: #00b39b;
+   
+}
+
+#sn {
+    margin: auto;
+    margin-bottom: 40px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    color: grey;
+}
+
+#coco{
+    margin-right: 20px;
+}
+
+#Mo {
+    margin-left: 20px;
+}
+
+#pp {
+    margin: auto;
+    width: 70%;
+    padding: 10px;
+}
+
+   #xd {
+    margin: 20px;
+    width: 40px;
+   }
+   #fr{
+    width: 70%;
+    
+    margin: 0mm auto;
+    display: flex;
+    justify-content: space-between;
+   
+   }
+   #abcd>*{
+    color: #ffffff;
+   }
+   #abcd{
+    background-color: #47c8b7;
+    width:  30%;
+    padding: 20px;
+    margin-left: 10px;
+    border-radius: 15px;
+
+    
+   }
+   #ja>*{
+    color: #ffffff;
+   }
+   #ja{
+    background-color: blue;
+    width:  30%;
+    padding: 20px;
+    margin-left: 10px;
+    border-radius: 15px;
+    
+   }
+   #im>*{
+    color: #ffffff;
+   }
+#im{
+    background-color: black;
+    width:  30%;
+     padding: 20px;
+     margin-left: 10px;
+     color: #ffffff;
+     border-radius: 15px;
+
+}
+#logos{
+    width: 50%;
+    display: flex;
+    justify-content:center
+    
+}
+#hh{
+    background-color:#00b39b ;
+    color: white;
+    border: none;
+    margin-top: 100px;
+}
+#id {
+    background-color: blue;
+    color: white;
+    border: none;
+    margin-top: 100px;
+}
+#rap {
+    background-color: black;
+    color: white;
+    border: none;
+    margin-top: 100px;
+}
+.mg {
+    display: flex;
+    flex-direction: column;
+}
+#gangsta {
+    background-color: black;
+    color: white;
+    border: none;
+}
+#uu {
+    display: flex;
+    flex-direction: row;
+   }
+
+   #dis:hover {
+    color: #47c8b7;
+   }
+
+   #cod:hover {
+    color:#47c8b7;
+   }
+
+   #gta:hover {
+    color: #47c8b7;
+   }
+
+   #ins:hover {
+    color: #47c8b7;
+   }
+   .cruisin {
+    background-color: rgb(204, 255, 238);
+    height: 600px;
+    position: relative;
+}
+
+#frank {
+    color:#47c8b7;
+    margin-left: 250px;
+    margin-top: 40px;
+}
+
+.micheal {
+     margin-bottom: 500px;
+     margin-left: 100px;
+     position: relative;
+     position: absolute;
+     bottom: -650px;
+     display: flex;
+     overflow: hidden;
+}
+.cruisin {
+    width: 100%;
+    background-color: rgb(204, 255, 238);
+    height: 600px;
+    position: relative;
+
+}
+
+#frank {
+    color:#47c8b7;
+    margin-left: 250px;
+    margin-top: 40px;
+}
+
+.micheal {
+     margin-bottom: 500px;
+     margin-left: 100px;
+     position: relative;
+     
+     position: absolute;
+    
+     display: flex;
+     overflow: hidden;
+}
